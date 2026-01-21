@@ -1,5 +1,6 @@
 Greetings on my GitHub corner.
 
-I'm beginner C++ dev with more than 10 years practice in commercial software developing (flash game developer, HTML5 game developer and PM experience). It's my sandbox for learning of new language and technologies, where you can find some study projects.
+I'm frontend developer with more than 13 years practice in commercial software developing (flash/HTML5 game developer, Angular software developer and PM experience).
+It's my sandbox for learning of new languages and technologies, also for pet projects.
 
 You're welcome here!
